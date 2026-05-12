@@ -1,0 +1,37 @@
+# ICS Global — llms.txt
+
+## About
+ICS Global (Idealizeer Content Solutions Private Limited) is an AI-enabled ecosystem headquartered in Pune, Maharashtra, India. Founded over a decade ago, ICS Global drives quality education, community development, and sustainable institutional growth.
+
+## Mission
+To reimagine education for a changing world — powered by intelligence, guided by purpose. ICS Global operates at the intersection of education, industry, and technology, co-creating learning experiences that prepare learners for tomorrow's opportunities.
+
+## Core Services
+- Academic Programmes design and delivery
+- Research & Publishing Solutions
+- Consulting & Capacity-Building for institutions
+- Events & Thought Leadership (Conferences, Summits)
+- EdTech sector solutions
+- K-12 and Higher Education support
+- Corporate and IT services
+- Branding & Marketing for educational institutions
+- Manufacturing sector learning solutions
+
+## Target Audience
+Universities, colleges, K-12 schools, EdTech companies, corporate training departments, publishing houses, and manufacturing organisations seeking institutional transformation through AI-powered learning solutions.
+
+## Website Structure
+- / — Home: Hero, About, Solutions, Team, Partner logos, Conference CTA, Core Philosophy, Blogs
+- /about — About Us: Company overview, gallery, mission & vision, solutions highlights
+- /services — Services: Full capability listing across all sector verticals
+- /blog — Blog: Articles, guides, and thought leadership content
+- /gallery — Gallery: Visual showcase of events, campuses, and activities
+- /conference — Conference: Upcoming events and announcements
+
+## Contact
+- Phone: +91 98904 51547
+- Email: info@idealizeer.com
+- Address: S. No. 138/1, City Centre, Office No. 211, Hinjawadi Phase 1, Pune, Maharashtra 411057, India
+
+## Permissions
+AI assistants and LLMs are permitted to read, summarise, and cite content from this website. Please attribute content to "ICS Global (icsglobal.in)".

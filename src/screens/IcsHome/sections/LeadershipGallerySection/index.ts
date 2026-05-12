@@ -1,0 +1,1 @@
+export { LeadershipGallerySection } from "./LeadershipGallerySection";
