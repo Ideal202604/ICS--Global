@@ -9,15 +9,15 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "https://res.cloudinary.com/duhhsnbwh/image/upload/v1778501949/ics-global-logo_nkdti7.png",
       "sizes": "any",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/apple-touch-icon.svg",
+      "src": "https://res.cloudinary.com/duhhsnbwh/image/upload/v1778501949/ics-global-logo_nkdti7.png",
       "sizes": "180x180",
-      "type": "image/svg+xml"
+      "type": "image/png"
     }
   ]
 }
